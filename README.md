@@ -20,8 +20,6 @@ Script en Bash para verificar la fecha de expiración de certificados SSL/TLS de
 Crea un archivo `sitios.txt` con el siguiente formato:
 
 google.com:443
-github.com:443
-expired.badssl.com:443
 
 ### 2. Ejecutar el script
 
