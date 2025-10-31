@@ -25,6 +25,6 @@ google.com:443
 
 ```bash
 chmod +x cert_check.sh
-./cert_check.sh -f sitios.txt -o terminal    # Modo terminal
-./cert_check.sh -f sitios.txt -o html        # Modo HTML
+./certificados.sh -f sitios.txt -o terminal    # Modo terminal
+./certificados.sh -f sitios.txt -o html        # Modo HTML
 
